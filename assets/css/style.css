@@ -11,3 +11,67 @@
 body {
     background-color: rgb(2, 2, 17);
 }
+
+/*Redes*/
+i.fa-brands.fa-instagram.fa-2xl,
+i.fa-brands.fa-github.fa-2xl,
+i.fa-brands.fa-linkedin-in.fa-2xl,
+i.fa-brands.fa-facebook.fa-2xl,
+i.fa-solid.fa-user-lock.fa-2xl,
+i.fa-solid.fa-user.fa-2xl{
+    color: rgb(255, 255, 255);
+}
+
+.list-group.list-group-horizontal{
+    --bs-list-group-bg: transparent;
+}
+
+.list-group.list-group-horizontal{
+    --bs-list-group-border-color:  transparent;
+}
+
+i.fa-brands.fa-instagram.fa-2xl:hover{
+color: rgb(255, 5, 222);
+}
+
+i.fa-brands.fa-github.fa-2xl:hover{
+    color:rgb(86, 86, 88);
+}
+
+i.fa-brands.fa-linkedin-in.fa-2xl:hover {
+    color:rgb(0, 183, 255);
+}
+
+i.fa-brands.fa-facebook.fa-2xl:hover {
+    color: rgb(15, 15, 224);
+}
+
+i.fa-solid.fa-user-lock.fa-2xl:hover {
+    color: rgb(194, 157, 255);
+}
+
+i.fa-solid.fa-user.fa-2xl:hover {
+    color: rgb(194, 157, 255);
+}
+
+/*Banner*/
+.Banner {
+    background-image: url(../img/bannerOpción2.png);
+    background-position: center;
+        background-size: 100%;
+        margin: auto;
+        background-repeat: no-repeat;
+        min-height: 70vh; 
+        z-index:0; 
+}
+
+/*foto de perfil*/
+.rounded-circle.w-25 {
+    position:absolute;
+    z-index:1;
+    background-color:#FFFFFF;
+    height:auto;
+    width: 15rem !important;
+    margin-top: -7.5rem;
+    margin-left: 7.50rem
+}
