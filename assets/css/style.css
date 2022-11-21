@@ -75,3 +75,24 @@ i.fa-solid.fa-user.fa-2xl:hover {
     margin-top: -7.5rem;
     margin-left: 7.50rem
 }
+
+/* Sección sobre mi */
+.aboutMe {
+    color: #ffffff ;
+    position: absolute;
+    margin: 10rem
+}
+
+/* Sección Estudios */
+.studies {
+    color: #ffffff ;
+    position: absolute;
+    margin: 20rem
+}
+
+/* Sección experiencia */
+.experience {
+    color: #ffffff ;
+    position: absolute;
+    margin: 30rem
+}

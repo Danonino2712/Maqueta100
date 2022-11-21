@@ -5,3 +5,5 @@ Había hecho varias maquetas pero no me convencían. Perdí mucho tiempo en ello
 
 21/11
 El proyecto fue empezado, le puse el index y el css con bootstrap. Pase cosas que me intereesaban de los anteriores proyectos y ya iré viendo como lo cambio.
+
+nota: arreglar secciones (margenes) y banner.
