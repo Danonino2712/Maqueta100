@@ -78,21 +78,40 @@ i.fa-solid.fa-user.fa-2xl:hover {
 
 /* Sección sobre mi */
 .aboutMe {
+    background-color: rgb(106, 159, 172);
     color: #ffffff ;
     position: absolute;
-    margin: 10rem
+    margin-top: 9rem;
+    margin-left: 8em;
+    margin-right: 8em;
 }
 
 /* Sección Estudios */
 .studies {
+    background-color: rgb(106, 159, 172);
     color: #ffffff ;
     position: absolute;
-    margin: 20rem
+    margin-top: 18rem;
+    margin-left: 8em;
+    margin-right: 8em;
 }
 
 /* Sección experiencia */
 .experience {
+    background-color: rgb(106, 159, 172);
     color: #ffffff ;
     position: absolute;
-    margin: 30rem
+    margin-top: 27rem;
+    margin-left: 8em;
+    margin-right: 8em;
+}
+
+/* Sección habilidades */
+.skills {
+    background-color: rgb(106, 159, 172);
+    color: #ffffff ;
+    position: absolute;
+    margin-top: 36rem;
+    margin-left: 8em;
+    margin-right: 8em;
 }
