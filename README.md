@@ -14,3 +14,7 @@ Recordatorios:
 
 22/11
 Arreglos pequeños, queda pendiente arreglar las estiquetas del banner para que no esté en el css,sino en el index.
+
+26/11
+
+Agregando cosas a las secciones: NECESITO HACER DASHBOARD
