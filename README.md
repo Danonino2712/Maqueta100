@@ -18,3 +18,6 @@ Arreglos pequeños, queda pendiente arreglar las estiquetas del banner para que 
 26/11
 
 Agregando cosas a las secciones: NECESITO HACER DASHBOARD
+
+27/
+Parte uno: algunos detalles, empezaré con el dashboard y faltan botones de edición.
