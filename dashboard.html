@@ -32,38 +32,68 @@
                 </ul> 
             </nav>
 
-            
-            <!-- formulario de login -->
-            <section class="login">
-            <div class="container text-center">
-                <div class="row">
-                  <div class="col-2">
-                  </div>
-                  <div class="col-8 form-login">
-                    <div class="modal-body text-white text-center">
-                        <form>
-                        <div class="mb-3">
-                            <label for="exampleFormControlInput1" class="form-label">Email</label>
-                            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@gmail.com">
-                          </div>
-                          <div class="mb-3">
-                                <label for="inputPassword" class="col-sm-2 col-form-label">Contraseña</label>
-                                <div class="col-sm-10">
-                                  <input type="password" class="form-control" id="inputPassword">
-                                </div>
-                        </form>
-                      </div>
-                      <div class="modal-footer">
-                        <button type="submit" class="btn btn-primary">Ingresar</button>
-                      </div>
-                      <small>Si no tenes cuenta, <a href="regristro.html">registrate</a>!</small>
-                  </div>
-                  <div class="col-2">
-                  </div>
+            <div class="container-fluid text-center">
+              <div class="row">
+                <div class="col-1">
                 </div>
-            </div>
-          </section>
+                <div class="col-2">
+                  <ul class="list-group">
+                    <li class="list-group-item"><i class="fa-solid fa-share-nodes"></i> Redes</li>
+                    <li class="list-group-item"><a href="#" data-bs-toggle="modal" data-bs-target="#bannerModal"><i class="fa-solid fa-image"></i>Banner</a></li>
+                    <li class="list-group-item"><i class="fa-solid fa-info"></i> Sobre mi</li>
+                  </ul>
+                  <img src="assets/img/fotoPerfilPrueba.png" alt="temporal" class="rounded-circle w-25 img-fluid perfilDashboard" title="temporal">
+                  <h4 class="name">Agustina Daniela Luján</h4>
+                </div>
+                <div class="col-8">
+                  <!-- inicio de Banner Modal -->
+                  <div class="modal fade" id="bannerModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                     <div class="modal-dialog modal-dialog-centered modal-lg">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
 
+                        <div class="modal-body">
+                          <div class="container text-center">
+                            <div class="row">
+                              <div class="col-1">
+                              </div>
+                              <div class="col-10">
+                                <form>
+                                  <div class="mb-3">
+                                      <label for="exampleFormControlInput1" class="form-label">Email</label>
+                                      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@gmail.com">
+                                    </div>
+                                    <div class="mb-3">
+                                          <label for="inputPassword" class="col-sm-2 col-form-label">Contraseña</label>
+                                          <div class="col-sm-10">
+                                            <input type="password" class="form-control" id="inputPassword">
+                                          </div>
+                                        </div>
+                                        <div class="modal-footer">
+                                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                          <button type="button" class="btn btn-primary">Save changes</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    </div>
+                                  </form>
+                              </div>
+                              <div class="col-1">
+                              </div>
+                            </div>
+                          </div>
+                
+
+<!-- fin de banner modal -->
+                </div>
+                <div class="col-1">
+                </div>
+              </div>
+            </div>
+            
                <!-- Footer -->
                <footer class="footer text-center">  
                 <small>

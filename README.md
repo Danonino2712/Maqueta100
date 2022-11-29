@@ -21,3 +21,5 @@ Agregando cosas a las secciones: NECESITO HACER DASHBOARD
 
 27/
 Parte uno: algunos detalles, empezaré con el dashboard y faltan botones de edición.
+
+parte dos: (29/11) se añadió el dashboard pero no me convence... haré lo básico y luego lo cambiaré para empezar angular
