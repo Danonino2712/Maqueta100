@@ -27,3 +27,6 @@ parte dos: (29/11) se añadió el dashboard pero no me convence... haré lo bás
 01/12
 
 Algunos inconvenientes para hacer que funcione el dashboard, hace dias intentand0...
+
+4/11
+casi acabando dashboard, quedaria: cambiar logos de las ventanitas, poner modal para cada uno y editarlo.
