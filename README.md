@@ -30,3 +30,4 @@ Algunos inconvenientes para hacer que funcione el dashboard, hace dias intentand
 
 4/11
 casi acabando dashboard, quedaria: cambiar logos de las ventanitas, poner modal para cada uno y editarlo.
+A pesar de andar complicada con la compu, daria por acabado el dashboard. Aún hay cosas que pulir pero sigo.
